@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1fkale
-- 👀 I’m interested in HTML5 - JavaScript - CSS
-- 🌱 I’m currently learning HTML5 - JavaScript - CSS
+- 👀 I’m interested in HTML - JavaScript - CSS
+- 🌱 I’m currently learning HTML - JavaScript - CSS
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me DM
 
